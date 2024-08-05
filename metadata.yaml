@@ -1,0 +1,43 @@
+_repo: Verben-vasban-b-Kis-kepek-a-nagy-haborubol-inter-arma_74073
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Garay, Ákos
+    alias: Garay, Akos
+    birthdate: 1866
+    deathdate: 1952
+    gutenberg_agent_id: '57334'
+    url: http://www.gutenberg.org/2009/agents/57334
+    wikipedia: https://hu.wikipedia.org/wiki/Garay_%C3%81kos
+creator:
+  author:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
+    - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+description: ''
+gutenberg_issued: '2024-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74073'
+language: hu
+pgterms:marc905: 20240713093120mricz
+pgterms:marc906: '1918'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bLégrády Testvérek, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PH'
+- GITenberg
+title: 'Vérben, vasban : $b Kis képek a nagy háboruból (inter arma)'
+url: http://www.gutenberg.org/ebooks/74073
