@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '57334'
     url: http://www.gutenberg.org/2009/agents/57334
     wikipedia: https://hu.wikipedia.org/wiki/Garay_%C3%81kos
+covers:
+- cover_type: archival
+  image_path: 74073-h/images/cover.jpg
 creator:
   author:
     agent_name: Móricz, Zsigmond
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
     - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74073#Verben-vasban-b-Kis-kepek-a-nagy-haborubol-inter-arma
 gutenberg_issued: '2024-07-19'
 gutenberg_type: Text
 identifiers:
